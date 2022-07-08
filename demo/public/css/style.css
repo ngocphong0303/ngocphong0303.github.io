@@ -551,6 +551,10 @@ padding-left: 20px;
 {
   padding: 0px;
 }
+.row8
+{
+  margin-right: 50px;
+}
 .row8 a p
 {
     background: #fff;
@@ -850,6 +854,19 @@ padding-left: 20px;
 .bann6 .row6 img
 {
   display:block;
+}
+.sale
+{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  display: inline-block;
+  border: 1px solid #ef837b;
+  padding: 0px 8px;
+  background: #ef837b;
+  font-size: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #fff;
 }
 
 
